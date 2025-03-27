@@ -1,4 +1,5 @@
 /*Zachary Firth
+Data Structures & Algorithm Analysis COP3530
 7/5/22
 Program: ModularExponentiation
 Purpose: To use the equation a * k mod n to find the answer depending on the user's input values and 
