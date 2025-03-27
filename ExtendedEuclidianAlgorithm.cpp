@@ -1,5 +1,4 @@
 /*Zachary Firth
-Data Structures & Algorithm Analysis COP3530
 7/5/22
 Program: ExtendedEuclidianAlgorithm
 Purpose: To find the GCD of two integers and find the values of s and t that 
