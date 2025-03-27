@@ -1,7 +1,5 @@
 //Zachary Firth
-//COP4610
 // 2/5/23
-//Due Date: 2/20/23 
 //Firth_FCFScode
 //Purpose: To take a set of data from 9 processes that represent CPU burst
 //times and I/O times to calculate the order these times and processes occur.
